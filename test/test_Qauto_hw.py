@@ -1,5 +1,4 @@
 import time
-
 from selenium.webdriver.common.by import By
 from pages.home_page import HomePage
 from pages.garage_page import GaragePage
